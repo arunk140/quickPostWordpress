@@ -1,0 +1,21 @@
+{
+  "name": "wordpress-post",
+  "version": "1.0.0",
+  "description": "Node App to post to Wordpress",
+  "main": "app.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "wordpress"
+  ],
+  "author": "Arun Khanchandani",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cli-input": "^0.2.0",
+    "express": "^4.15.2",
+    "readline": "^1.3.0",
+    "wordpress": "^1.4.0"
+  }
+}
