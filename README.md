@@ -1,7 +1,7 @@
 # Quick Post to Wordpress
 
 Uses Express & Wordpress-API to create a faster post interface for Wordpress.
-Useful when Bulk Posting Articals.
+Useful when Bulk Posting Articles.
 
 <>
 
