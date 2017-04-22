@@ -8,7 +8,7 @@ Useful when Bulk Posting Articles.
 ## How to Setup! ##
  * Clone the Repository
  * Edit 'app.js' with Your Wordpress Credentials
- * Run the following commands in a teminal
+ * Run the following commands in a terminal
 
 ```
 npm install
